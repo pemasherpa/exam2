@@ -70,10 +70,3 @@ Looping through all the keys: `fruits.keys()`  Looping through all the values  `
 
 `lst.sort([key=sort_key, reverse=bool_val]` sorts the given list **lst**, based on sort key (**key**) and order prefernce (**reverse**) and returns **None**
 
-
-
-
-
-```python
-
-```
